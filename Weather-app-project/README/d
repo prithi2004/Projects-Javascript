@@ -1,0 +1,34 @@
+# 🌤️ Weather App
+
+This is a simple and responsive **Weather App** built using **HTML, CSS, and Vanilla JavaScript**. It allows users to check the current weather information of any city by fetching data from the **OpenWeatherMap API**.
+
+---
+
+## 📸 Screenshot
+
+
+
+---
+
+## 🚀 Features
+
+- 🔍 Search weather by city name
+- 🌡️ Shows temperature in Celsius
+- 🌥️ Displays weather conditions (cloudy, sunny, etc.)
+- 💨 Wind speed display
+- ⚙️ Real-time data using `fetch()` and `async/await`
+- 📱 Fully responsive design (mobile-friendly)
+
+---
+
+## 🧰 Tech Stack
+
+- **HTML5** – for structure
+- **CSS3** – for styling and layout
+- **JavaScript (ES6+)** – to fetch and display weather data
+- **OpenWeatherMap API** – for live weather info
+
+---
+
+## 📁 Folder Structure
+
