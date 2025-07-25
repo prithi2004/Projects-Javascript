@@ -16,7 +16,7 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 
 ## 📸 Screenshot
 
-![To-Do List Screenshot](screenshots/todolist-screenshot.png)
+![todolist Screenshot](screenshots/todolist-screenshot.png)
 
 > Make sure you upload your screenshot in a folder called `screenshots` and name it `todo-screenshot.png`. You can change the folder or image name as needed.
 
