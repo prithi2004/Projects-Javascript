@@ -20,7 +20,7 @@ Zero Dependencies: No frameworks required—just JavaScript, HTML, and CSS.
 Clone this Repo
 
 bash
-git clone https://github.com/YOUR_USERNAME/quiz-app-js.git
+git clone https://github.com/prithi2004/quiz-app-js.git
 Open index.html in your browser
 
 Start quizzing!
