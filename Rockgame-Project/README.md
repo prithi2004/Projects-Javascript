@@ -10,7 +10,6 @@ A classic Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. Challen
 > *(Optional: You can host this using GitHub Pages or any static hosting site)*
 
 ---
-
 ## 🚀 Features
 
 - 🎲 Play Rock, Paper, or Scissors against the computer
@@ -58,7 +57,6 @@ Scissors beats Paper
 
 Paper beats Rock
 Scores are updated after each round
-
 🙋‍♀️ Author
 Prithi B
 GitHub
