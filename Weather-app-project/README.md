@@ -4,8 +4,6 @@ A simple and responsive weather app built using HTML, CSS, and JavaScript. It fe
 
 ---
 
-
-
 ## ⚙️ Features
 
 - 🔍 Search weather by city name
@@ -15,7 +13,6 @@ A simple and responsive weather app built using HTML, CSS, and JavaScript. It fe
 - 📱 Fully responsive design
 
 ---
-
 <img width="253" height="180" alt="image" src="https://github.com/user-attachments/assets/3df6f86e-6656-4be5-a824-2a31e2722a01" />
 
 
