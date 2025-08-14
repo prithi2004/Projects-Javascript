@@ -16,9 +16,7 @@ Zero Dependencies: No frameworks required—just JavaScript, HTML, and CSS.
 
 ✨ Preview
 ![Quiz App Screenshot](screenshot.png Start
-
 Clone this Repo
-
 bash
 git clone https://github.com/prithi2004/quiz-app-js.git
 Open index.html in your browser
