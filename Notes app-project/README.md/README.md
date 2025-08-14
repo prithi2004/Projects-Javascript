@@ -38,7 +38,6 @@ Edit
 ## 🌐 Live Demo
 
 > Coming soon: [https://yourusername.github.io/Notes-App-JS](https://yourusername.github.io/Notes-App-JS)
-
 ## 👤 Author
 
 **Prithi Babu**  
