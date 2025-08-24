@@ -4,7 +4,6 @@ A simple and interactive flashcard application built using **HTML, CSS, and Java
 This project was created as part of the **rtCamp shortlist process** to demonstrate frontend development skills.
 
 ---
-
 ## 🚀 Features
 - ➕ Add new flashcards dynamically
 - 📝 Edit and delete flashcards
@@ -13,7 +12,6 @@ This project was created as part of the **rtCamp shortlist process** to demonstr
 - ⚡ Smooth and lightweight – no frameworks required
 
 ---
-
 ## 📂 Project Structure
 flashlearn/
 │── index.html # Main HTML file
@@ -78,3 +76,4 @@ Prithi Babu
 
 
 Update your Pull Request (PR) → rtCamp will now see a well-documented project ✅.
+
