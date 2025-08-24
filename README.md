@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlashLearn - Smart Flashcards App 🧠
 
 A simple JavaScript app to create, flip, and study flashcards.
@@ -21,3 +22,7 @@ flashlearn/
 │── script.js
 │── README.md
 ```
+=======
+
+
+>>>>>>> 288b7a2cbd84f05a5f75be1f11255133e2db2e42

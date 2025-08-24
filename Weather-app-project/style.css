@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #89f7fe, #66a6ff);
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  background: #fff;
+  padding: 20px 40px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
