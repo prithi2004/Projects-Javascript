@@ -2,7 +2,6 @@
 
 A simple and interactive flashcard application built using **HTML, CSS, and JavaScript**.  
 This project was created as part of the **rtCamp shortlist process** to demonstrate frontend development skills.
-
 ---
 ## 🚀 Features
 - ➕ Add new flashcards dynamically
@@ -76,4 +75,5 @@ Prithi Babu
 
 
 Update your Pull Request (PR) → rtCamp will now see a well-documented project ✅.
+
 
