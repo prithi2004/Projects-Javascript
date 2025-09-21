@@ -55,7 +55,6 @@ Implement user login to track scores per user.
 Style it with SCSS or a CSS framework.
 
 Deploy live on GitHub Pages (share your link in your resume!).
-
 📦 Sample Code
 javascript
 // script.js (Sample)
