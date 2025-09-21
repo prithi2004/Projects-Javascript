@@ -38,7 +38,6 @@ No additional installation is needed as it is a static project using only HTML, 
 HTML
 
 CSS
-
 JavaScript
 
 💡 Use Cases
