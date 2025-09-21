@@ -8,9 +8,9 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 
  ✅ Add tasks
  ❌ Delete individual tasks
-- 🧹 Clear all tasks
-- 💾 Tasks saved in local storage
-- 📱 Responsive design for all devices
+ 🧹 Clear all tasks
+ 💾 Tasks saved in local storage
+ 📱 Responsive design for all devices
 
 ---
 <img width="306" height="180" alt="image" src="https://github.com/user-attachments/assets/8f8d09a0-75ce-44c1-af33-532f5b887ae7" />
