@@ -3,7 +3,7 @@
 A classic Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. Challenge the computer in this fun and interactive game!
 
 ---
-ional: You can host this using GitHub Pages or any static hosting site)*
+
 
 ---
 ## 🚀 Features
