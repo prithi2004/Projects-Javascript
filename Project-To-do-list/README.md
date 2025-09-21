@@ -6,7 +6,7 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 
 ## 🚀 Features
 
-- ✅ Add tasks
+ ✅ Add tasks
 - ❌ Delete individual tasks
 - 🧹 Clear all tasks
 - 💾 Tasks saved in local storage
