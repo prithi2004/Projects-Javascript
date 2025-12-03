@@ -1,5 +1,5 @@
 Quiz App in JavaScript
-A polished, open-source Quiz App to demonstrate your JavaScript, frontend, and UX/UI skills—perfect for showcasing on GitHub and standing out in hiring processes such as rtCamp’s engineering screenings.
+A polished, open-source Quiz App to demonstrate your JavaScript, frontend, and UX/UI skills—perfect for showcasing on GitHub and standing out in hiring processes.
 
 🚀 Features
 Dynamic Multiple-Choice Quizzes: Add or fetch questions easily (support for static arrays or APIs).
